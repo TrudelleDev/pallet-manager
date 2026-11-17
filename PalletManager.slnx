@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="palletmanager.client/palletmanager.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="palletmanager.server/PalletManager.Server.csproj" />
+</Solution>
